@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: https://imbagacor.3dayfunk.com/sitemap.xml
+Sitemap: http://imbagacor.3dayfunk.com/sitemap.xml
